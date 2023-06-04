@@ -1,3 +1,2 @@
-# hello-world
-slayed
+# slayed
 you just got slayed.
